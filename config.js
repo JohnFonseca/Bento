@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'fa-brands fa-youtube',
-			link: 'https://www.youtube.com/',
+			name: 'Email',
+			icon: 'fa-regular fa-envelope',
+			link: 'https://outlook.live.com/mail/0/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Pinterest',
+			icon: 'fa-brands fa-pinterest',
+			link: 'https://br.pinterest.com/',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			icon: 'fa-brands fa-reddit-alien',
+			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Roll20',
+			icon: 'fa-solid fa-dice-d20',
+			link: 'https://roll20.net/welcome',
 		},
 	],
 
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'fa-solid fa-music',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Post-Rock',
+					link: 'https://www.youtube.com/watch?v=MRhplCpkPKE',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Synthwave',
+					link: 'https://www.youtube.com/watch?v=4xDzrJKXOOY',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi',
+					link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NCS',
+					link: 'https://www.youtube.com/watch?v=MsSrIlOi81o',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'fa-solid fa-mug-hot',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Mangadex',
+					link: 'https://mangadex.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Flatout!',
+					link: 'https://flatout.com.br/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Animes',
+					link: 'https://animesonlinecc.to/',
 				},
 			],
 		},
