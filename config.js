@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Reddit',
+			icon: 'fa-brands fa-reddit-alien',
+			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Youtube',
+			icon: 'fa-brands fa-youtube',
+			link: 'https://www.youtube.com/',
 		},
 		{
 			id: '4',
