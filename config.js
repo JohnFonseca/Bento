@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Email',
-			icon: 'fab-envelope',
+			icon: 'envelope',
 			link: 'https://outlook.live.com/mail/0/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Roll20',
-			icon: 'fab-dice-d20',
+			icon: 'dice-d20',
 			link: 'https://roll20.net/welcome',
 		},
 	],
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'fab-music',
+			icon: 'music',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'fab-mug-hot',
+			icon: 'mug-hot',
 			id: '2',
 			links: [
 				{
