@@ -54,37 +54,37 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Discord',
-			icon: 'fa-brands fa-discord',
+			icon: 'fab-discord',
 			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '2',
 			name: 'Reddit',
-			icon: 'fa-brands fa-reddit-alien',
+			icon: 'fab-reddit-alien',
 			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '3',
 			name: 'Email',
-			icon: 'fa-regular fa-envelope',
+			icon: 'fab-envelope',
 			link: 'https://outlook.live.com/mail/0/',
 		},
 		{
 			id: '4',
 			name: 'Pinterest',
-			icon: 'fa-brands fa-pinterest',
+			icon: 'fab-pinterest',
 			link: 'https://br.pinterest.com/',
 		},
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'fa-brands fa-reddit-alien',
+			icon: 'fab-reddit-alien',
 			link: 'https://www.reddit.com/',
 		},
 		{
 			id: '6',
 			name: 'Roll20',
-			icon: 'fa-solid fa-dice-d20',
+			icon: 'fab-dice-d20',
 			link: 'https://roll20.net/welcome',
 		},
 	],
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'fa-solid fa-music',
+			icon: 'fab-music',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'fa-solid fa-mug-hot',
+			icon: 'fab-mug-hot',
 			id: '2',
 			links: [
 				{
